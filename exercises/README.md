@@ -1,0 +1,1 @@
+This directory (`teaching-programming-porfolio/exercises`) contains the exercises completed for the course. I hope to use these as examples in the future to help students practice their coding skills.
