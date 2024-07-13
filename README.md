@@ -30,3 +30,8 @@ Now, we'll explore "nested" repeats ([tutorial](https://docs.google.com/presenta
 Exercise: [Catch the bananas!](https://drive.google.com/file/d/1bRQwIL9-sRhcreVtnHnoPkT4M0of2Dfu/view?usp=sharing) | `Snap`
 
 The next concept is events. We want our program ([tutorial](https://docs.google.com/presentation/d/1tbNxOKTPL_YlmywncLeoagH0eIMmeTNu5tCHpnrTeJI/edit)) to interact with real life "events" that will signal the next sequence of events, such as moving left when the left key is pressed, or waving when another character says hello. We will create these events using the "broadcast..." (send a signal) and "when I receive..." (receive a signal) blocks in snap.
+
+## Module 9-10: Variables
+Exercise: [Shapes and Variables](https://drive.google.com/file/d/1x36uv0JgWbk99UcTC91mgMAef_qpvMAi/view?usp=sharing) | `Snap`
+
+In this exercise ([tutorial](https://docs.google.com/presentation/d/1YrmOVNtmuV5ceOQ1c5YZOKTBxygId1ybK_hmSB53FKc/edit#slide=id.g38c37d85b4_1_58)), we will draw 3 different polygons (triangle, square, pentagon) with equal side lengths, but a different numbers of sides. Both of these parameters (side length and number of sides) will be stored as variables that are used throughout the program. For example, to calculate the angle that the sprite must turn to get to the next line, we will always take 360º and divide it by the number of sides (e.g. a triangle has 3 sides, so the sprite turns 360º/3=**120º** degrees before each new line) rather than "hard-coding" (e.g. setting angle = 120, rather than angle = 360/num_sides) the number of degrees.
