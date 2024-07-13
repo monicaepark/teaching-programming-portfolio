@@ -21,7 +21,12 @@ In this exercise, students will play with animal spites on scratch using [this](
 
 ## Module 6: Equity & Pedagogy
 
-## Module 7: Nested Repeats Part 1
+## Module 7-8: Nested Repeats
 Exercise: [Mouse's Octagon](https://drive.google.com/file/d/1fj6Bwaphx_2KgJzQifOrBtZLs9oRNzdk/view?usp=sharing)
 
 Now, we'll explore "nested" repeats, where we place a repeat block inside another repeat block (aka nested loops). In effect, we are repeating a set of instructions that already contains at least one repeating set of instructions.
+
+## Module 8-9: Events
+Exercise: [Catch the bananas!](https://drive.google.com/file/d/1bRQwIL9-sRhcreVtnHnoPkT4M0of2Dfu/view?usp=sharing)
+
+The next concept is events. We want our program to interact with real life "events" that will signal the next sequence of events, such as moving left when the left key is pressed, or waving when another character says hello. We will create these events using the "broadcast..." (send a signal) and "when I receive..." (receive a signal) blocks in snap.
