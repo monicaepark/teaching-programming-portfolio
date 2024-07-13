@@ -18,3 +18,10 @@ Here, students will use the concept of repeats to emulate a breakdancer's dance 
 Exercise: [Animal Parade](https://drive.google.com/file/d/1bF6SyrSvgg9mY5MahdOElxH0GNinjiu2/view?usp=sharing)
 
 In this exercise, students will play with animal spites on scratch using [this](https://scratch.mit.edu/projects/428258614/) starter code along to this [worksheet](https://docs.google.com/presentation/d/111ar9NiouOq5KzZDPYm6z3_6yi_A3aPdou49fr_sABI/edit#slide=id.g40f3bba36c_0_157). Students will create repeat blocks for the kangaroo, grasshopperm and bee sprites to practice using repeat blocks to automate processes in their code.
+
+## Module 6: Equity & Pedagogy
+
+## Module 7: Nested Repeats Part 1
+Exercuse: [Mouse's Octagon](https://drive.google.com/file/d/1fj6Bwaphx_2KgJzQifOrBtZLs9oRNzdk/view?usp=sharing)
+
+Now, we'll explore "nested" repeats, where we place a repeat block inside another repeat (aka nested loops) to repeat a set of repeated instructions.
