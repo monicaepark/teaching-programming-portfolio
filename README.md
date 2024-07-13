@@ -24,4 +24,4 @@ In this exercise, students will play with animal spites on scratch using [this](
 ## Module 7: Nested Repeats Part 1
 Exercuse: [Mouse's Octagon](https://drive.google.com/file/d/1fj6Bwaphx_2KgJzQifOrBtZLs9oRNzdk/view?usp=sharing)
 
-Now, we'll explore "nested" repeats, where we place a repeat block inside another repeat (aka nested loops) to repeat a set of repeated instructions.
+Now, we'll explore "nested" repeats, where we place a repeat block inside another repeat block (aka nested loops). In effect, we are repeating a set of instructions that already contains at least one repeating set of instructions.
