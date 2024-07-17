@@ -2,7 +2,7 @@
 
 This repository was created to showcase the projects I've created to teach programming to beginners. All projects are inspired from the UCSD EDS 124BR (Teaching Computational Thinking for Everyone) course curriculum, which I took over the summer of 2024 with Dr. Amy Eguchi and Dr. Beth Simon.
 
-## Module 1: (Course Orientation)
+## (Module 1: Course Orientation)
 
 ## Module 2-3: Computational Thinking and Sequencing
 Exercise: [Show What You Know: Explain Your Program](https://drive.google.com/file/d/1tjNx8lQaYlel7A3gLto-HLlDvkDts2Yp/view?usp=sharing) | `Snap`
@@ -19,7 +19,7 @@ Exercise: [Animal Parade](https://drive.google.com/file/d/1bF6SyrSvgg9mY5MahdOEl
 
 In this exercise, students will play with animal spites on `Scratch` using [this](https://scratch.mit.edu/projects/428258614/) starter code along to this [worksheet](https://docs.google.com/presentation/d/111ar9NiouOq5KzZDPYm6z3_6yi_A3aPdou49fr_sABI/edit#slide=id.g40f3bba36c_0_157). Students will create repeat blocks for the kangaroo, grasshopperm and bee sprites to practice using repeat blocks to automate processes in their code.
 
-## Module 6: Equity & Pedagogy
+## (Module 6: Equity & Pedagogy)
 
 ## Module 7-8: Nested Repeats
 Exercise: [Mouse's Octagon](https://drive.google.com/file/d/1fj6Bwaphx_2KgJzQifOrBtZLs9oRNzdk/view?usp=sharing) | `Snap`
@@ -35,3 +35,10 @@ The next concept is events. We want our program ([tutorial](https://docs.google.
 Exercise: [Shapes and Variables](https://drive.google.com/file/d/1x36uv0JgWbk99UcTC91mgMAef_qpvMAi/view?usp=sharing) | `Snap`
 
 In this exercise ([tutorial](https://docs.google.com/presentation/d/1YrmOVNtmuV5ceOQ1c5YZOKTBxygId1ybK_hmSB53FKc/edit#slide=id.g38c37d85b4_1_58)), we will draw 3 different polygons (triangle, square, pentagon) with equal side lengths, but a different numbers of sides. Both of these parameters (side length and number of sides) will be stored as variables that are used throughout the program. For example, to calculate the angle that the sprite must turn to get to the next line, we will always take 360º and divide it by the number of sides (e.g. a triangle has 3 sides, so the sprite turns 360º/3=**120º** degrees before each new line) rather than "hard-coding" (e.g. setting angle = 120, rather than angle = 360/num_sides) the number of degrees.
+
+## (Module 11: (Equity & Pedagogy))
+
+## Module 12-13: Conditional Loops
+Exercise: [Catch the soccer ball!](https://drive.google.com/file/d/12agc8QT0PNAKx3C3W0nf-9E2PgTMkJDb/view?usp=sharing) | `Snap`
+
+Students will then further explore the idea of fixed vs conditional repeats by writing this programming using a "repeat until" block in snap, which is a simplified version of a while loop with a boolean condition.
