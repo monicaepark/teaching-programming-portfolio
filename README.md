@@ -41,4 +41,4 @@ In this exercise ([tutorial](https://docs.google.com/presentation/d/1YrmOVNtmuV5
 ## Module 12-13: Conditional Loops
 Exercise: [Catch the soccer ball!](https://drive.google.com/file/d/12agc8QT0PNAKx3C3W0nf-9E2PgTMkJDb/view?usp=sharing) | `Snap`
 
-Students will then further explore the idea of fixed vs conditional repeats by writing this programming using a "repeat until" block in snap, which is a simplified version of a while loop with a boolean condition.
+Students will now further explore the idea of repeats in the context of fixed vs conditional repeats. We will be writing a program using a "repeat until" block in Snap, which runs like a while loop with a boolean condition. When our true/false condition (touching mouse pointer?) is false, the loop continues to run, but the moment it evaluates to true, we will exit the loop and the ball stops gliding across the screen.
