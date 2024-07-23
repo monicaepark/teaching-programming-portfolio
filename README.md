@@ -26,6 +26,10 @@ Exercise: [Catch the bananas!](https://drive.google.com/file/d/1bRQwIL9-sRhcreVt
 
 The next concept is events. We want our program ([tutorial](https://docs.google.com/presentation/d/1tbNxOKTPL_YlmywncLeoagH0eIMmeTNu5tCHpnrTeJI/edit)) to interact with real life "events" that will signal the next sequence of events, such as moving left when the left key is pressed, or waving when another character says hello. We will create these events using the "broadcast..." (send a signal) and "when I receive..." (receive a signal) blocks in snap.
 
+Extra: [Build a Scratch Jam](https://scratch.mit.edu/projects/1047124125) | `Scratch`
+
+In this extra exercise, I created solution code (desired behavior) and "assessment" code (code blocks are detached) for students to try building a fun jam session using the concept of events. Give it a try and check your behavior and code with the solution ([here](https://scratch.mit.edu/projects/1047116135)) :)
+
 ## Module 9-10: Variables
 Exercise: [Shapes and Variables](https://drive.google.com/file/d/1x36uv0JgWbk99UcTC91mgMAef_qpvMAi/view?usp=sharing) | `Snap`
 
