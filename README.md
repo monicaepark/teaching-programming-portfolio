@@ -12,7 +12,6 @@ Exercise: [Let's dance!](https://drive.google.com/file/d/16Ps4hDjKPVM__x40imGJtk
 
 Here, students will use the concept of repeats to emulate a breakdancer's dance using [these](https://docs.google.com/presentation/d/1bqlijPZWJLNByw8xqjSNAwBiC_wigLFMJ59T49YgYMQ/edit#slide=id.p) step by step instructions. If students want to explore further, they can write their own program using the concept of repeats.
 
-
 Exercise: [Animal Parade](https://drive.google.com/file/d/1bF6SyrSvgg9mY5MahdOElxH0GNinjiu2/view?usp=sharing) | `Scratch`
 
 In this exercise, students will play with animal spites on `Scratch` using [this](https://scratch.mit.edu/projects/428258614/) starter code along to this [worksheet](https://docs.google.com/presentation/d/111ar9NiouOq5KzZDPYm6z3_6yi_A3aPdou49fr_sABI/edit#slide=id.g40f3bba36c_0_157). Students will create repeat blocks for the kangaroo, grasshopperm and bee sprites to practice using repeat blocks to automate processes in their code.
@@ -37,7 +36,6 @@ Exercise: [Catch the soccer ball!](https://drive.google.com/file/d/12agc8QT0PNAK
 
 Students will now further explore the idea of repeats in the context of fixed vs conditional repeats ([tutorial](https://docs.google.com/presentation/d/1KOzzsWnF4degMaABS0sJ5aq5c0vpf_RM4Hwig2RNuzA/edit#slide=id.p)). We will be writing a program using a "repeat until" block in Snap, which runs like a while loop with a boolean condition. When our true/false condition (touching mouse pointer?) is false, the loop continues to run, but the moment it evaluates to true, we will exit the loop and the ball stops gliding across the screen.
 
-
 ## Module 14-15: If Statements
 Exercise: [Blue ball on target](https://drive.google.com/file/d/1TBErTGV2AGA3EDaSgsMhBWOxzhBTwUZE/view?usp=sharing) | `Snap`
 
@@ -47,3 +45,8 @@ In this exercise ([tutorial](https://docs.google.com/presentation/d/1EIT2hgYVM8Y
 Exercise: [Penguin at the beach](https://drive.google.com/file/d/1DmbgsBndGlg6e6XRjrVS55LXThKYE86w/view?usp=sharing) | `Snap`
 
 In this guided exercise, students will build a program ([tutorial](https://docs.google.com/presentation/d/1MQaXM4f5AxX32DOrebqyh5bjMwGmJM2g7x5sIP9GNxM/edit#slide=id.g426d4b2d67_0_0)) that interacts with a penguin. There are two conditions: can the penguin swim? (yes/no user input) and if so, is the penguin old enough (random age variable) to swim in the ocean on his own? Depending on the answers to these nested if/else statements, the penguin's beach day will be determined.
+
+## Module 19-20: Compound Conditionals
+Exercise: [Find the treasure!](LINK) | `Snap`
+
+The next exercise builds a treasure hunt game ([tutorial](https://docs.google.com/presentation/d/1cVhvJXIw8y6CyRRYnND6UqskH10YbkU3chBYQtR5CEA/edit#slide=id.p)) where a user drags their mouse around the sand in search of gold. An alert sound when the user is near the treasure and a celebratory message are both triggered by using compound conditionals of the x and y coordinates of the mouse in relation to the treeasure.
