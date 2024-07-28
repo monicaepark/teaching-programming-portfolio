@@ -51,6 +51,6 @@ Exercise: [Penguin at the beach](https://drive.google.com/file/d/1DmbgsBndGlg6e6
 In this guided exercise, students will build a program ([tutorial](https://docs.google.com/presentation/d/1MQaXM4f5AxX32DOrebqyh5bjMwGmJM2g7x5sIP9GNxM/edit#slide=id.g426d4b2d67_0_0)) that interacts with a penguin. There are two conditions: can the penguin swim? (yes/no user input) and if so, is the penguin old enough (random age variable) to swim in the ocean on his own? Depending on the answers to these nested if/else statements, the penguin's beach day will be determined.
 
 ## Module 19-20: Compound Conditionals
-Exercise: [Find the treasure!](LINK) | `Snap`
+Exercise: [Find the treasure!](https://drive.google.com/file/d/16LOdgGsJOIHay3ZjSGeVNqOqOAWViht-/view?usp=sharing) | `Snap`
 
 The next exercise builds a treasure hunt game ([tutorial](https://docs.google.com/presentation/d/1cVhvJXIw8y6CyRRYnND6UqskH10YbkU3chBYQtR5CEA/edit#slide=id.p)) where a user drags their mouse around the sand in search of gold. An alert sound when the user is near the treasure and a celebratory message are both triggered by using compound conditionals of the x and y coordinates of the mouse in relation to the treeasure.
