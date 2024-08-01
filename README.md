@@ -58,5 +58,6 @@ The next exercise builds a treasure hunt game ([tutorial](https://docs.google.co
 ## Module 22-23: Abstraction
 
 Exercise: [Painting with abstractions](https://drive.google.com/file/d/1XWllq2EEu_dNXOTdbAKVRk9KI-XkSZ5t/view?usp=sharing) | `Snap`
+
 This is probably my favorite exercise. Here, we use the idea of abstraction to create custom functions in Snap to paint a picture. Follow this [tutorial](https://docs.google.com/presentation/d/1yMgGH1VqCB6j4nYBHDCgqKcdKesNe3JIcGnXlGzD8Xw/edit#slide=id.p) to draw the same picture of the sky, grass, sun and flower, or try making your own program using abstractions to reduce repetitive code and create an easily readable program that hides the finer implementation details.
 
